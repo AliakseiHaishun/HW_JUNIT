@@ -1,0 +1,39 @@
+CheckList for Calculator
+
+Addition
+
+addition of "0" and "0"
+addition of negative integer and "0"
+addition of positive and negative integers (pos int <neg int) done!
+addition of positive and negative integers AP addition of positive and negative integers done!
+addition of positive integer and "0"
+aaddition of two negative integers done!
+addition of two positive integers done!
+
+Divide
+
+dividing of "0" by integer
+dividing of 2 negative integers
+dividing of integer by "0"
+dividing of positive integer by negative integer
+dividing of two positive integers
+
+Multiply
+
+multiplication of integer and "0"
+multiplication of pisitive and negative integer
+multiplication of two negative integer
+multiplication of two pisitive integers
+
+Subtract
+
+subtraction of "0" and negative integer
+subtraction of "0" and positive integer
+subtraction of negative integer and "0"
+subtraction of positive and negative integers (pos int < neg int)
+subtraction of positive and negative integers (pos int = neg
+subtraction of positive and negative integers
+subtraction of positive integer and "0"
+subtraction of two "0"
+subtraction of two negative integers
+subtraction of two positive integers
